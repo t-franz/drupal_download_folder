@@ -1,0 +1,6 @@
+custom_download_folder.settings_form:
+  title: Download Folder
+  description: Select folders to download.
+  parent: system.admin_config_development
+  route_name: custom_download_folder.settings_form
+  weight: 10

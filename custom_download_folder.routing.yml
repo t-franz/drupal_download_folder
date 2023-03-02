@@ -1,0 +1,8 @@
+custom_download_folder.settings_form:
+  path: '/admin/config/development/download-folder'
+  defaults:
+    _title: 'Download Folders'
+    _form: 'Drupal\custom_download_folder\Form\SettingsForm'
+  requirements:
+    _permission: 'administer custom_download_folder configuration'
+

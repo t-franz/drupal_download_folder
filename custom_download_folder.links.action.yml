@@ -1,0 +1,6 @@
+custom_download_folder.add_article:
+  route_name: custom_download_folder.settings_form
+  title: Download Folders
+  weight: 10
+  appears_on:
+    - backup_migrate.quick_backup

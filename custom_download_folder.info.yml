@@ -1,0 +1,9 @@
+name: Custom Download Folder
+type: module
+description: Download compressed folders of website
+package: Custom
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+  - drupal:backup_migrate
+configure:
+  custom_download_folder.settings_form

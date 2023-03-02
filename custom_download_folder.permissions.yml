@@ -1,0 +1,4 @@
+administer custom_download_folder configuration:
+  title: 'Download Folders'
+  description: 'Download selected folders.'
+  restrict access: true
